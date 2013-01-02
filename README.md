@@ -1,0 +1,4 @@
+webgl earth
+===========
+
+textures removed!
